@@ -1,0 +1,14 @@
+{
+  "sayHi": "你好 React",
+  "language": "EN",
+  "more": "更多",
+  "nav": [
+    { "name": "首页", "slash": "/" },
+    { "name": "客户案例", "slash": "/case" },
+    { "name": "关于瑞云", "slash": "/about" },
+    { "name": "加入瑞云", "slash": "/join-us" }
+  ],
+  "sectionHomeHead": {
+    "p3": "超85%CG工作室的选择"
+  }
+}

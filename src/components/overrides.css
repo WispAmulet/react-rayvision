@@ -1,0 +1,15 @@
+:root {
+  --index: '0';
+}
+
+#fp-nav ul li {
+  width: 3rem;
+  height: 4rem;
+  border-top: 2px solid #02a6bc;
+}
+
+/* #fp-nav ul li a span:last-child::before {
+  content: var(--index);
+  width: 100px;
+  height: 100px;
+} */

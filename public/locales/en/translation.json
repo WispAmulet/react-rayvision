@@ -1,0 +1,11 @@
+{
+  "sayHi": "Hello React",
+  "language": "中文",
+  "more": "More",
+  "nav": [
+    { "name": "Home", "slash": "/" },
+    { "name": "Projects", "slash": "/case" },
+    { "name": "About", "slash": "/about" },
+    { "name": "Join Us", "slash": "/join-us" }
+  ]
+}
